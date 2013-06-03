@@ -1,0 +1,1 @@
+The file huffman.cpp contains an implementation of Huffman Encoding. Given a string, it returns an encoding of the message. The main.cpp file contains a simple verification of the encoding functions.
